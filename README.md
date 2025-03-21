@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+👋 Hi, I’m @Nurlaela-01
+👀 I’m interested in Love
+🌱 I’m currently learning Python
+💞️ I’m looking to collaborate on my project
+📫 How to reach me connect my linkedin
+😄 Pronouns: she/her
+⚡ Fun fact: i am catwoman
+
+
 <!--
 **Nurlaela-01/Nurlaela-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
